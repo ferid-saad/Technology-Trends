@@ -1,11 +1,5 @@
 # Smart Irrigation System
 An intelligent IoT-based irrigation system that optimizes water usage by monitoring soil conditions and environmental factors in real-time. This project leverages sensor data and machine learning to automate and optimize agricultural irrigation.
-<div align="center">
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/IoT-Enabled-green
-https://img.shields.io/badge/Machine--Learning-Integrated-orange
-https://img.shields.io/badge/License-MIT-green
-</div>
 
 ## 🌱 Overview
 The Smart Irrigation System addresses the critical challenge of water conservation in agriculture by providing an automated, data-driven solution for efficient irrigation management. By continuously monitoring soil moisture, temperature, humidity, and weather conditions, the system makes intelligent decisions about when and how much to water crops.
