@@ -18,33 +18,6 @@ Weather Integration: Adaptive scheduling based on weather forecasts and conditio
 
 Alert System: Notifications for system issues or critical conditions
 
-## 🚀 Quick Start
-### Prerequisites
-Python 3.8 or higher
-
-Raspberry Pi/Arduino (for hardware implementation)
-
-Soil moisture sensors
-
-Water pump/valve controllers
-
-
-## 🏗️ Hardware Setup
-### Required Components
-Microcontroller (Raspberry Pi/Arduino)
-
-Soil Moisture Sensors
-
-Temperature & Humidity Sensors (DHT22/DHT11)
-
-Water Pump/Solenoid Valves
-
-Relay Modules
-
-Jumper Wires and Breadboard
-
-Power Supply
-
 ## 🏗️ Project Structure
 ```ini
 text
